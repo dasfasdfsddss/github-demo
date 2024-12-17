@@ -19,3 +19,5 @@
 
 # git 용어 처리
 - merge: 두 브랜치를 병합
+
+#Commit A
