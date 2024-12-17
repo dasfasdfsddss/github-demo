@@ -15,4 +15,17 @@
 | `git push`              | 로컬 변경사항을 리모트 저장소로 푸시      | ⬆️      |
 | `git clone URL`         | 리모트 저장소 복제                       | 🛠️      |
 | `git log`               | 커밋 로그 확인                           | 🕒      |
+<<<<<<< HEAD
 | `git blame 파일명`       | 파일에서 각 줄의 마지막 수정자 확인       | 🕵️      |
+=======
+| `git blame 파일명`       | 파일에서 각 줄의 마지막 수정자 확인       | 🕵️      |
+
+# git 용어 처리
+- merge: 두 브랜치를 병합
+
+#Commit A
+#Commit B
+#Commit C
+#Commit D
+
+>>>>>>> a6da374 (테스트7번쨰)
