@@ -21,7 +21,6 @@
 - **`git blame`** 🕵️  
   특정 파일의 각 줄에 대해 마지막으로 변경한 사람이 누구인지, 그리고 언제 수정되었는지를 확인
 
-<<<<<<< HEAD
 오늘의 실습 : 레포지토리 초기화해보기
 
 원격저장소 가져오기
@@ -147,9 +146,40 @@ git status
 
 [추가]
 
+
 충돌 을 되돌리기 : 병합 도중 모든 변경 사항을 취소를 원하면
 
 ```
 git merge --abort
 ```
+
+---
+
+## Merge하고 충돌 해결 추가
+
+원격 브랜치 목록 최신화
+
+```
+git fetch --prune
+```
+
+원격 브랜치 확인
+
+```
+git branch -r
+```
+
+원격 브랜치를 로컬로 가져오기
+
+```
+git checkout -b feature/김영훈 origin/feature/김영훈
+```
+
+병합
+
+```
+git checkout feature/최종빈
+git merge feature/김영훈
+```
+
 
