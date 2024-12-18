@@ -41,10 +41,9 @@
 > git checkout 브랜치명
 
 원격 저장소 등록하기
-> git remote add origin 레포지토리주소
+> git remote add origin 레포지토리주소a
 > origin이라는 이름으로 원격 레포지토리 주소가 등록됩니다.
 
 원격 저장소와 내 로컬저장소 연동(내 현재 로컬브랜치가 원격저장소에 없을 때)
 > git push -u origin 브랜치명
 > 한번만 원격저장소와 연동해주면 그 뒤로는 git push만 해주면 됩니다!
-
