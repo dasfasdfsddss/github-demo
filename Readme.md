@@ -2,6 +2,4 @@
 
 feature/?솴?닔?븘
 
-a
-b
-c
+이게 cherry-pick용 수정사항입니다.
