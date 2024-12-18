@@ -186,7 +186,10 @@ git merge feature/김영훈
 
 ---
 
+<<<<<<< HEAD
+test1
 test2
 test3
-
-revert커밋
+=======
+test1
+>>>>>>> 4189beb (test1)
