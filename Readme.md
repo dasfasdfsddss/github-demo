@@ -34,4 +34,4 @@
 feature에서 수정을 해봐요 <충돌유도>
 이게 chrry-pick용 수정사항입니다. 
 >>>>>>> 01f9c77 (Commit ABCD)
-revert Test Commit이다. 
+reset Test Commit이다. 
