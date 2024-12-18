@@ -11,3 +11,5 @@ feature에만 있는 텍스트 입니다. 충돌 예정
 
 reset용 입니다 commit 1차
 reset해야하는 코드입니다. "reset용 커밋"
+
+revert용 커밋
