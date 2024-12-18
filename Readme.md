@@ -28,4 +28,9 @@
 #Commit C
 #Commit D
 
+<<<<<<< HEAD
 >>>>>>> a6da374 (테스트7번쨰)
+=======
+feature에서 수정을 해봐요 <충돌유도>
+이게 chrry-pick용 수정사항입니다. 
+>>>>>>> 01f9c77 (Commit ABCD)
